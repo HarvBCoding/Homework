@@ -1,4 +1,15 @@
-In the refactored code I first used semantic HTML elements for accessibility and to follow a logical structure. Alt attributes were added to all img elements for accessibility. Comments were also added to divide the webpage for future updates. And finally the title element was updated to reflect the name of the company. 
+# Horiseon Social Solution Services Refactor
 
+## Purpose
+A service for social media marketing and branding
 
-The stylesheet was updated to consolidate rules that were repetitive and utility classes were added.
+## Built with
+* HTML
+* CSS
+
+## Website
+This a trilogy practice challenge
+
+## Contribution
+Made by Triology Services
+Refactored by Breania (Bre) Harvey
