@@ -8,8 +8,12 @@ A service for social media marketing and branding
 * CSS
 
 ## Website
+https://harvbcoding.github.io/HoriseonRefactorChallenge1/
 This a trilogy practice challenge
 
 ## Contribution
 Made by Triology Services
 Refactored by Breania (Bre) Harvey
+
+![HoriseonScreenshot](./assets/READMEscreenshot1.png)
+![HoriseonScreenshotTwo](./assets/READMEscreenshot2.png)
